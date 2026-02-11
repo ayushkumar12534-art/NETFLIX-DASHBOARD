@@ -112,7 +112,7 @@ The dataset contains the following columns:
 ## 👨‍💻 Author
 
 **Ayush Kumar**  
-Industrial Management Student  
+B Tech Student  
 Aspiring Data Analyst  
 
 ---
