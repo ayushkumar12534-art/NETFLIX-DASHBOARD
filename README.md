@@ -13,7 +13,7 @@ The dashboard helps in understanding how Netflix content has evolved over the ye
 
 > Add your dashboard image file in this repository and rename it as `dashboard.png`
 
-![Netflix Dashboard](Netflix Dashboard Image.png)
+![Netflix Dashboard](dashboard.png)
 
 ---
 
