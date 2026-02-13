@@ -113,7 +113,7 @@ The dataset contains the following columns:
 
 **Ayush Kumar**  
 B Tech Student  
-Aspiring Data Analyst  
+Aspiring Data Analyst
 
 ---
 
